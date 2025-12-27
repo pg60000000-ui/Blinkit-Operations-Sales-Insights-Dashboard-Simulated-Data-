@@ -24,5 +24,5 @@ Drill-down capabilities for deeper performance analysis
 Time-based trend analysis for sales insights
 Category-wise and outlet-wise performance views
 
-![Power BI dashboard showing sales KPIs, outlet performance, and product insights]([dashboard_preview.png](https://github.com/pg60000000-ui/Blinkit-Operations-Sales-Insights-Dashboard-Simulated-Data-/blob/main/Blinkit%20Operations%20%26%20Sales%20Insights%20Dashboard%20(Simulated%20Data).png))
+![Power BI dashboard showing sales KPIs, outlet performance, and product insights](Blinkit Operations & Sales Insights Dashboard (Simulated Data).png)
 
