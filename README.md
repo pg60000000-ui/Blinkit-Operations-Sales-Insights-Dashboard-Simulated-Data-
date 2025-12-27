@@ -26,5 +26,5 @@ Category-wise and outlet-wise performance views
 
 Screenshots:
 Show what the Dashboard looks like  
-Example:![Dashboard Preview]()
+Example:![Dashboard Preview](https://github.com/pg60000000-ui/Blinkit-Operations-Sales-Insights-Dashboard-Simulated-Data-/blob/main/Blinkit%20Operations%20%26%20Sales%20Insights%20Dashboard%20(Simulated%20Data).png)
 
